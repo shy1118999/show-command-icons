@@ -46,6 +46,8 @@ Show Command Icons 是一个 Visual Studio Code 插件，它允许你为 VS Code
   ]
 ```
 
+> 图标查看地址：[https://code.visualstudio.com/api/references/icons-in-labels#icon-listing](https://code.visualstudio.com/api/references/icons-in-labels#icon-listing)
+
 在这个例子中，一个名为 My Command 的命令将被添加到 VS Code 状态栏的左侧，当你将鼠标悬停在它上面时，会显示 This is my command 的工具提示。
 
 ## 贡献
